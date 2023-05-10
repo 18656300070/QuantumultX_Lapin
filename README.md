@@ -1,2 +1,2 @@
 # QuantumultX_Lapin
-Lapin
+For myself.
